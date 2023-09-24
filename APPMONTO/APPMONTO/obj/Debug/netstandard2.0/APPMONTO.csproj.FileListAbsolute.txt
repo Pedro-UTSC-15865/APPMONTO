@@ -1,0 +1,16 @@
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\bin\Debug\netstandard2.0\APPMONTO.deps.json
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\bin\Debug\netstandard2.0\APPMONTO.dll
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\bin\Debug\netstandard2.0\APPMONTO.pdb
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\APPMONTO.csproj.AssemblyReference.cache
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\APPMONTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\APPMONTO.AssemblyInfoInputs.cache
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\APPMONTO.AssemblyInfo.cs
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\APPMONTO.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\APPMONTO.dll
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\refint\APPMONTO.dll
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\APPMONTO.pdb
+C:\Users\jesus\Desktop\Aplicacion IMC\APPMONTO\APPMONTO\APPMONTO\obj\Debug\netstandard2.0\ref\APPMONTO.dll

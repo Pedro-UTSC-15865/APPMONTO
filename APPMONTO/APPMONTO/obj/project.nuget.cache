@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "o14PDtuLZhDy/8SKIoNyFPxhkHqcfttDXx+m6r8PbA6UJTRCilDIE1WgY+KyI0LQSlTL5GOZ1vtd39TaGNpInQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jesus\\Desktop\\Aplicacion IMC\\APPMONTO\\APPMONTO\\APPMONTO\\APPMONTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
